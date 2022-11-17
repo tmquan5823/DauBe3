@@ -1,0 +1,4 @@
+﻿  DauBe3.cpp
+D:\C++\daube3\DauBe3\DauBe3\DauBe3.cpp(50,37): warning C4305: '-=': truncation from 'double' to 'float'
+D:\C++\daube3\DauBe3\DauBe3\DauBe3.cpp(52,42): warning C4305: '+=': truncation from 'double' to 'float'
+  DauBe3.vcxproj -> D:\C++\daube3\DauBe3\x64\Debug\DauBe3.exe
